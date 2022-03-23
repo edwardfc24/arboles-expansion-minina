@@ -5,3 +5,4 @@ Repositorio destinado a la implementación de los algoritmos de Kruskal y Prim
 greetings XD
 Hola mundo :3
 hola mundo
+Yo si pude hacer el cambio
